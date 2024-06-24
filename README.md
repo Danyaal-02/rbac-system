@@ -23,7 +23,7 @@ This project implements a Role-Based Access Control (RBAC) system using Node.js,
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rbac-system.git
+   git clone https://github.com/Danyaal-02/rbac-system.git
    cd rbac-system
    ```
 
@@ -39,7 +39,7 @@ This project implements a Role-Based Access Control (RBAC) system using Node.js,
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret_key
    ```
-   
+
 
 ## Usage
 
